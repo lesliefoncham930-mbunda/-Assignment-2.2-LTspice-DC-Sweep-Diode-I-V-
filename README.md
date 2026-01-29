@@ -1,4 +1,3 @@
-# -Assignment-2.2-LTspice-DC-Sweep-Diode-I-V-
 # Assignment 2.2 – LTspice DC Sweep (Diode I–V)
 
 ## Student
